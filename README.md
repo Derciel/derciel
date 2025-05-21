@@ -1,4 +1,4 @@
-# 👋 Fala aí, eu sou o Derciel Alves dos Santos Junior!
+# 👋 Fala aí, eu sou o Derciel Junior!
 
 💡 **Desenvolvedor e Explorador Digital**, apaixonado por dar vida às ideias com tecnologia, inovação e muita criatividade. Hoje, faço parte da equipe da **Nicopel Embalagens**, em Londrina-PR, criando soluções inteligentes e automatizando processos para tornar o dia a dia das empresas muito mais eficiente!
 
