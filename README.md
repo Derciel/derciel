@@ -28,15 +28,7 @@
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Derciel&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Derciel&layout=compact&theme=radical)
-
----
-
-## 🐍 Jogo da cobrinha com minhas contribuições!
-
-Que tal brincar de Snake com minhas contribuições no GitHub? Clique abaixo e divirta-se:
-
-[![GitHub Snake](https://github.com/Derciel/Derciel/raw/output/github-contribution-grid-snake.svg)](https://github.com/Platane/snk)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Derciel&layout=compact&theme=radical)
 
 ---
 
