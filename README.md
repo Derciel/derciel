@@ -30,7 +30,7 @@
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Derciel&layout=compact&theme=radical)
 
-![Visitor Count](https://profile-counter.glitch.me/<Derciel>/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Derciel/count.svg)
 
 
 
