@@ -30,7 +30,7 @@
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Derciel&layout=compact&theme=radical)
 
-![Profile views](https://gpvc.arturio.dev/[Derciel])
+![Profile views](https://gpvc.arturio.dev/Derciel)
 
 
 
