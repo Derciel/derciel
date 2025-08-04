@@ -30,6 +30,9 @@
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Derciel&layout=compact&theme=radical)
 
+![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F<SEU_USUARIO>%2F<SEU_REPO>&title=visitas)
+
+
 ---
 
 ## 🏅 Minhas Conquistas GitHub
