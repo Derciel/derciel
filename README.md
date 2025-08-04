@@ -30,7 +30,9 @@
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Derciel&layout=compact&theme=radical)
 
-![Visits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Derciel/derciel&amp;title=visitas)
+![Profile views](https://gpvc.arturio.dev/[Derciel])
+
+
 
 
 
