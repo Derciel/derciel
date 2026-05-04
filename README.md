@@ -20,7 +20,7 @@
 - **[rastreiothebest](https://github.com/Derciel/rastreiothebest)** 📦 – Nunca mais perca o rastro de suas encomendas!
 - **[chapa-saida-nicopel](https://github.com/Derciel/chapa-saida-nicopel)** 🗃️ – Automação no controle da produção industrial.
 - **[universidade-corporativa-nicopel](https://github.com/Derciel/universidade-corporativa-nicopel)** 📚 – Educação corporativa levada a sério!
-- **[IOTMQTTP](https://github.com/Derciel/IOTMQTTP)** 🌡️ – Monitorando ambientes com ESP32 e MQTT.
+
 
 ---
 
