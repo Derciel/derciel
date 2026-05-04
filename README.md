@@ -11,7 +11,7 @@
 - 💬 **Vamos trocar ideias!**
   - [LinkedIn](https://www.linkedin.com/in/derciel-junior)
   - [Instagram](https://www.instagram.com/dercieljunior)
-- ⚙️ **Ferramentas e Tecnologias** que adoro usar: Python 🐍, ESP32 📡, GitHub 🚧, GitHub Actions 🎬, IoT 🌐 e Automação Industrial 🛠️.
+- ⚙️ **Ferramentas e Tecnologias** que adoro usar: Python 🐍, GitHub 🚧, GitHub Actions 🎬.
 
 ---
 
