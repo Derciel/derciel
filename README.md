@@ -53,12 +53,12 @@ Atualmente na **Nicopel Embalagens** (Londrina‑PR), criando soluções intelig
 ## 📈 GitHub no Raio‑X
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Derciel&show_icons=true&theme=radical" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Derciel&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derciel&layout=compact&theme=radical" alt="top langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Derciel&theme=radical" alt="streak"/>
+  <img src="https://streak-stats.dinohero.me/?user=Derciel&theme=radical" alt="streak"/>
 </p>
 
 <p align="center">
