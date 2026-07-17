@@ -44,31 +44,6 @@ Atualmente na **Nicopel Embalagens** (Londrina‑PR), criando soluções intelig
 | [🗃️ chapa-saida-nicopel](https://github.com/Derciel/chapa-saida-nicopel) | Automação no controle da produção industrial. |
 | [📚 universidade-corporativa-nicopel](https://github.com/Derciel/universidade-corporativa-nicopel) | Educação corporativa levada a sério! |
 
-## 🏆 Conquistas & Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Derciel&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="trophies"/>
-</p>
-
-## 📈 GitHub no Raio‑X
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Derciel&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derciel&layout=compact&theme=radical" alt="top langs"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Derciel&theme=radical" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Derciel&theme=react-dark&hide_border=true" alt="activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Derciel/Derciel/output/snake.svg" alt="snake animation"/>
-</p>
-
 ---
 
 ## 🤝 Bora se conectar!
