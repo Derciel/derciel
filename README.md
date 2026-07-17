@@ -24,6 +24,19 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Derciel&theme=radical" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Derciel&theme=react-dark&hide_border=true" alt="activity graph"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Derciel/Derciel/output/snake.svg" alt="snake animation"/>
+</p>
+
+---
 
 ## 🧑‍💻 Sobre mim
 
