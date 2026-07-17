@@ -19,10 +19,6 @@
   <img src="https://komarev.com/ghpvc/?username=Derciel&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.dinohero.me/?user=Derciel&theme=radical" alt="streak"/>
-</p>
-
 ---
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Derciel&theme=radical" alt="streak"/>
