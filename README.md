@@ -21,7 +21,6 @@
 
 <p align="center">
   <img src="https://streak-stats.dinohero.me/?user=Derciel&theme=radical" alt="streak"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Derciel&theme=radical" alt="streak"/>
 </p>
 
 ---
