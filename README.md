@@ -20,9 +20,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Derciel&theme=radical" alt="streak"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Derciel&theme=react-dark&hide_border=true" alt="activity graph"/>
@@ -56,12 +53,5 @@ Atualmente na **Nicopel Embalagens** (Londrina‑PR), criando soluções intelig
 | [📦 rastreiothebest](https://github.com/Derciel/rastreiothebest) | Nunca mais perca o rastro de suas encomendas! |
 | [🗃️ chapa-saida-nicopel](https://github.com/Derciel/chapa-saida-nicopel) | Automação no controle da produção industrial. |
 | [📚 universidade-corporativa-nicopel](https://github.com/Derciel/universidade-corporativa-nicopel) | Educação corporativa levada a sério! |
-
 ---
 
-## 🤝 Bora se conectar!
-
-- [LinkedIn](https://www.linkedin.com/in/derciel-junior)
-- [Instagram](https://www.instagram.com/dercieljunior)
-
-✨ **Bora criar algo incrível juntos!** ✨
