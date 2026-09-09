@@ -49,7 +49,7 @@ Atualmente na **Nicopel Embalagens** (Londrina‑PR), criando soluções intelig
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,vue,nodejs,html,css,git,githubactions,docker,linux" alt="tech stack"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,vue,nodejs,html,css,git,githubactions,docker,linux,gcp,nextjs,npm,obsidian,postgres,powershell" alt="tech stack"/>
 </p>
 
 ## ⭐ Top repositórios
