@@ -28,7 +28,6 @@
 
 <div style="display:flex;flex-wrap:wrap;gap:16px;justify-content:center">
   <img src="https://github-readme-stats.vercel.app/api?username=Derciel&show_icons=true&hide_rank=true&hide_title=true&theme=tokyonight" alt="github stats" style="flex:1 1 380px;max-width:480px;height:auto"/>
-  <img src="https://streak-stats.demolab.com?username=Derciel&theme=tokyonight&hide_border=true" alt="streak" style="flex:1 1 380px;max-width:480px;height:auto"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Derciel&layout=compact&theme=tokyonight" alt="top languages" style="flex:1 1 380px;max-width:480px;height:auto"/>
 </div>
 
