@@ -4,8 +4,6 @@
 
 <h1 align="center">Olá 👋, eu sou o Derciel Junior</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=2500&pause=1000&color=7aa2f7&center=true&vCenter=true&width=460&height=45&text=Desenvolvedor%20Full-Stack;Automa%C3%A7%C3%A3o%20Industrial;Python%20%C2%B7%20React%20%C2%B7%20Vue;C%C3%B3digo%20Aberto%20%F0%9F%9A%80" alt="typing animation"/>
 </p>
 
 <h3 align="center">Desenvolvedor & Explorador Digital · Automação Industrial & Código Aberto</h3>
